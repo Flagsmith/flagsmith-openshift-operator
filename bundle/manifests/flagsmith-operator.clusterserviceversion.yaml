@@ -24,6 +24,7 @@ metadata:
       ]
     capabilities: Basic Install
     categories: Developer Tools
+    description: Manage feature flags and remote config across web, mobile and server side applications.
     operators.operatorframework.io/builder: operator-sdk-v1.3.0
     operators.operatorframework.io/project_layout: helm.sdk.operatorframework.io/v1
   name: flagsmith-operator.v0.0.1
