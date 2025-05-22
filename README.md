@@ -1,4 +1,9 @@
-# Read me for flagsmith operator
+# Readme for Flagsmith OpenShift Operator
+
+>[!NOTE]
+> The Flagsmith OpenShift Operator is no longer being maintained. If you'd like to take on maintainership, 
+> please reach out to engineering@flagsmith.com.
+
 
 ## Install operator sdk
 
